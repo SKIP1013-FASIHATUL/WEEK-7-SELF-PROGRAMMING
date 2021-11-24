@@ -1,0 +1,12 @@
+package selfprog;
+
+public class flagcontrol {
+public static void main(String[] args) {
+	int choice=1, total=0;
+	while (choice <4){
+		total = choice++;
+		System.out.print(total);	}
+	}
+
+}
+
